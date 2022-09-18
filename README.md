@@ -3,7 +3,7 @@
 
 ## By Vvarsha
 
-## [Link for Project 1](https://varshacompanysite.netlify.app/) 
+## [Deployed Link](https://varshacompanysite.netlify.app/) 
 
 
 ## What I learned ? How was my experience while making this project?
