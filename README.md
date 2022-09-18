@@ -7,7 +7,7 @@
 
 
 ## What I learned ? How was my experience while making this project?
-![Completed Website](./CompanySite/screen-shots/Image_1.png)
+![Completed Website](./CompanySite/screen-shots/01.png)
 
 - I learned how to use HTML and CSS to create a attractive website.
 - I learned about various css properties and tags.
