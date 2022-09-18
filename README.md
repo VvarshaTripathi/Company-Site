@@ -5,7 +5,6 @@
 
 ## [Link for Project 1](https://varshacompanysite.netlify.app/) 
 
-![project 1 completed](./screen-shots/Image_1.png)
 
 ## What I learned ? How was my experience while making this project?
 
